@@ -1,6 +1,8 @@
-# Formula 1 Winners
+# Javascript Data Structures
 
 Basic data structure implementations for Javascript.
+
+Based on [Introduction to Data Structures](https://frontendmasters.com/courses/data-structures-interviews/)
 
 
 ## Authors
